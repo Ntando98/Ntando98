@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ntando98
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning how to be junior developer
-- 💞️ I’m looking to collaborate on any small company 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on full stack projects 
+- 📫 How to reach me on lindntin 
 - 😄 Pronouns: just me. a male
 - ⚡ 
 
